@@ -11,12 +11,12 @@ Think of `.aix` files like executables for LLMs—they allow you to "load and ru
 ### 🔍 1. Data Analysis Executors
 Scoped `.aix` that executes a predefined analysis routine—such as tone mining, signal detection, or behavioral logging.
 
-- **Example**: [`cryptotone_v2.0.7.aix`]([./analysis-executors/cryptotone_v2.0.7.aix](https://github.com/mjtiv/aix-file-format/blob/main/cryptotone_v2.0.7.aix))
+- **Example**: [`cryptotone_v2.0.7.aix`](https://github.com/mjtiv/aix-file-format/blob/main/cryptotone_v2.0.7.aix)
 - Extracts tone signals from LLM logs or transcripts.
 - Originally designed for crypto sentiment tracking.
 - Expanded into legal/compliance tone audits.
 
-📁 Folder: [[`/analysis-executors`](./analysis-executors)](https://github.com/mjtiv/aix-file-format)
+📁 Folder: https://github.com/mjtiv/aix-file-format
 
 ---
 
