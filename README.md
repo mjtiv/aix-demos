@@ -4,6 +4,8 @@ This repo contains demos of `.aix`, a portable AI execution format for defining 
 
 Think of `.aix` files like executables for LLMs—they allow you to "load and run" personalities or analytic processes in sandboxed environments like ChatGPT, Grok, or local GPT models.
 
+Note: This repo is a demo directory linking to multiple `.aix` projects. It does not contain executable code itself — each project lives in its own linked repo.
+
 ---
 
 ## 🗂️ Demo Types
