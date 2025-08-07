@@ -61,3 +61,23 @@ Personas that evolve or destabilize over time. Ideal for storytelling, hallucina
 - Memory and personality boundary enforcement
 - Auditable and shareable execution files
 - Opens the door to modular, multi-agent AI
+
+---
+
+## Why These Three `.aix` Files Matter
+
+These aren't just examples — they're **the start of a format**:
+
+- `cryptotone.aix`: A code-based analysis tool (signal extraction from LLM logs)
+- `TuringGPT.aix`: A scoped, deterministic historical persona
+- `PirateGrok.aix`: A drifting AI, testing behavioral destabilization
+
+Together, they represent the **three core dimensions** of portable AI execution:
+
+1. Tool runners  
+2. Fixed personas  
+3. Behavioral fuzzers
+
+`.aix` is not a plugin — it’s a container for constrained, portable, and auditable AI behavior.
+
+The structure is intentional. The format is emerging.
