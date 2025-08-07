@@ -4,7 +4,7 @@ This repo contains demos of `.aix`, a portable AI execution format for defining 
 
 Think of `.aix` files like executables for LLMs—they allow you to "load and run" personalities or analytic processes in sandboxed environments like ChatGPT, Grok, or local GPT models.
 
-Note: This repo is a demo directory linking to multiple `.aix` projects. It does not contain executable code itself — each project lives in its own linked repo.
+> 🔒 **Note:** This is a *hub repo* linking to three separate `.aix` projects. It does not contain executable code itself.
 
 ---
 
@@ -64,20 +64,25 @@ Personas that evolve or destabilize over time. Ideal for storytelling, hallucina
 
 ---
 
-## Why These Three `.aix` Files Matter
+## 🧩 Why These Three `.aix` Files Matter
 
-These aren't just examples — they're **the start of a format**:
+These aren't just demos — they’re **archetypes** of a new execution format:
 
-- `cryptotone.aix`: A code-based analysis tool (signal extraction from LLM logs)
-- `TuringGPT.aix`: A scoped, deterministic historical persona
-- `PirateGrok.aix`: A drifting AI, testing behavioral destabilization
+| `.aix File`      | Type                        | Function |
+|------------------|-----------------------------|----------|
+| `cryptotone.aix` | Tool runner                 | Executes scoped Python analysis |
+| `TuringGPT.aix`  | Deterministic persona       | Role-based behavior container |
+| `PirateGrok.aix` | Drifting personality        | Fuzzer/test for behavioral instability |
 
-Together, they represent the **three core dimensions** of portable AI execution:
+Together, they define **three core dimensions of portable AI execution**:
+1. 🛠 Code execution  
+2. 👤 Persona instantiation  
+3. 🌀 Behavior evolution
 
-1. Tool runners  
-2. Fixed personas  
-3. Behavioral fuzzers
+`.aix` is **not a plugin** — it’s a **container**. For safety. For structure. For agency.
 
-`.aix` is not a plugin — it’s a container for constrained, portable, and auditable AI behavior.
+---
 
-The structure is intentional. The format is emerging.
+**The structure is intentional.**  
+**The format is emerging.**  
+**The future of LLM control may live here.**
