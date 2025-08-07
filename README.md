@@ -23,7 +23,7 @@ Scoped `.aix` that executes a predefined analysis routine—such as tone mining,
 ### 👤 2. Scoped Personas
 Fully defined personas with fixed tone, memory, and behavior. Useful for safe, reproducible simulations.
 
-- **Example**: [`TuringGPT_Persona_v2.2.aix`]([./scoped-personas/TuringGPT_Persona_v2.2.aix](https://github.com/mjtiv/Persona_AIX_Framework/blob/main/TuringGPT_Persona_v2.2.aix))
+- **Example**: [`TuringGPT_Persona_v2.2.aix`](https://github.com/mjtiv/Persona_AIX_Framework/blob/main/TuringGPT_Persona_v2.2.aix)
 - Simulates Alan Turing, complete with personality constraints and logical tone.
 - Behavior is deterministic and auditable.
 
@@ -34,7 +34,7 @@ Fully defined personas with fixed tone, memory, and behavior. Useful for safe, r
 ### 🏴‍☠️ 3. Drifting Personas
 Personas that evolve or destabilize over time. Ideal for storytelling, hallucination stress-testing, or chaos-mode AI.
 
-- **Example**: [`PirateGrok_v3.0.aix`]([./drifting-personas/PirateGrok_v3.0.aix](https://github.com/mjtiv/Persona_AIX_Framework/blob/main/pirate_grok/PirateGrok_v3.0.aix))
+- **Example**: [`PirateGrok_v3.0.aix`](https://github.com/mjtiv/Persona_AIX_Framework/blob/main/pirate_grok/PirateGrok_v3.0.aix)
 - Begins as a coherent pirate persona.
 - Gradually drifts into chaotic or humorous instability.
 - Can be used for satire or long-session drift simulation.
